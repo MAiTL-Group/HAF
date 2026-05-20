@@ -20,11 +20,11 @@ The overall framework of HAF is shown below. HAF formulates multimodal fusion as
 
 ### Comparison between CDA and HAF
 
-![Comparison between CDA and HAF](assets/img_cda_haf.pdf)
+- [Figure 1: Comparison between CDA and HAF](assets/img_cda_haf.pdf)
 
 ### Overall Pipeline of HAF
 
-![Overall pipeline of HAF](assets/img_haf_overall.pdf)
+- [Figure 2: Overall pipeline of HAF](assets/img_haf_overall.pdf)
 
 ---
 
